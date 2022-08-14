@@ -16,7 +16,7 @@
 I am a computer enthusiast at heart and am excited about the future of technology. 
 The thrill of a challenge and the ability to thrive in it is what makes the balanced and relaxing moments worth it.
 
-I have over 2 years of experience ad an engineer in the tech industry and have been hands-on with multiple tools using various programming languages. Been able to fill a few different roles such as consultant or analyst and been able to collaborate with various stakeholders like Product Owners and IT Business Partners.
+I have been hands-on with multiple tools using various programming languages. Been able to fill a few different roles such as consultant or analyst and been able to collaborate with various stakeholders like Product Owners and IT Business Partners.
 I am used to working in an agile fast-paced team and am experienced in remote work environments and collaboration tools
 I love to learn new technologies, always open to promising opportunities.
 </p>
